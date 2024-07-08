@@ -21,8 +21,8 @@ This application allows users to efficiently manage their tasks with several fea
 
 ## Prerequisites:
 
--You must have Node.js and NPM installed on your system.
--You should have some understanding of React and yarn or npm.
+- You must have Node.js and NPM installed on your system.
+- You should have some understanding of React and yarn or npm.
 
 ### Installation
 
@@ -82,6 +82,7 @@ Here are some planned features and improvements for future development:
 - [Vite Documentation](https://vitejs.dev/guide/)
 - [React Documentation](https://reactjs.org/)
 - [TypeScript Documentation](https://www.typescriptlang.org/)
+
 
 # Thank You
 
